@@ -1,0 +1,25 @@
+/* Styles for IDs */
+#main-heading {
+    color: #FF0000; /* Red text color for the main heading */
+}
+
+#subheading {
+    color: rgb(0, 0, 255); /* Blue text color for the subheading */
+}
+
+#main-paragraph {
+    font-size: 18px; /* Increase font size for the main paragraph */
+}
+
+#custom-table {
+    border: 2px solid #000000; /* Increase the table border thickness */
+    width: 100%;
+}
+
+#header1 {
+    background-color: #FFA07A; /* Custom background color for Header 1 */
+}
+
+#header2 {
+    background-color: rgb(255, 160, 122); /* Custom background color for Header 2 */
+}
